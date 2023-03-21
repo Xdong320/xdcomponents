@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+.box{
+    border: 1px solid #d1cfcf;
+    line-height: 30px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    text-align: center;
+}
